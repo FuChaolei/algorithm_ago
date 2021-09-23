@@ -1,0 +1,18 @@
+{
+	"C_Cpp.errorSquiggles": "Disabled",
+	"files.associations": {
+		"deque": "cpp",
+		"initializer_list": "cpp",
+		"queue": "cpp",
+		"regex": "cpp",
+		"type_traits": "cpp",
+		"vector": "cpp",
+		"xstring": "cpp",
+		"xutility": "cpp",
+		"string": "cpp",
+		"iosfwd": "cpp",
+		"xlocale": "cpp",
+		"algorithm": "cpp",
+		"limits": "cpp"
+	}
+}
